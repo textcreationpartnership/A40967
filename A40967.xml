@@ -1,0 +1,374 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A Farther brief and true narration of the late vvars risen in New-England occasioned by the quarrelsome disposition and perfidious carriage of the barbarous and savage Indian natives there : with an account of the fight, the 19th of December last, 1675.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1676</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 22 KB of XML-encoded text transcribed from 7 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A40967</idno>
+            <idno type="STC">Wing F529</idno>
+            <idno type="STC">ESTC R40586</idno>
+            <idno type="EEBO-CITATION">19370543</idno>
+            <idno type="OCLC">ocm 19370543</idno>
+            <idno type="VID">108809</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A40967)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 108809)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1669:21)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A Farther brief and true narration of the late vvars risen in New-England occasioned by the quarrelsome disposition and perfidious carriage of the barbarous and savage Indian natives there : with an account of the fight, the 19th of December last, 1675.</title>
+               </titleStmt>
+               <extent>12 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by F.D. for M.K. ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1676.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>"London, February 17th, 1675/6. Licensed, Henry Oldenburg."</note>
+                  <note>Reproduction of original in the Bodleian Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>King Philip's War, 1675-1676.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-10</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-10</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-01</date>
+            <label>Lauren Proux</label>Sampled and proofread</change>
+         <change>
+            <date>2010-01</date>
+            <label>Lauren Proux</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:108809:1" rendition="simple:additions"/>
+            <p>A farther Brief and True NARRATION OF THE LATE VVARS RISEN IN New-England, Occaſioned by the Quarrel<g ref="char:EOLhyphen"/>ſome Diſpoſition and Perfidious Carriage of the <hi>Barbarous and Sa<g ref="char:EOLhyphen"/>vage</hi> Indian Natives there.</p>
+            <p>With an Account of the FIGHT, the 19th of <hi>December</hi> laſt, 1675.</p>
+            <p>
+               <hi>London, February</hi> 17th, 1675/6.</p>
+            <p>Licenſed, <hi>Henry Oldenburg.</hi>
+            </p>
+            <p>
+               <hi>London,</hi> Printed by <hi>J. D.</hi> for <hi>M. K.</hi> and are to be Sold by the Bookſellers, 1676.</p>
+         </div>
+      </front>
+      <body>
+         <div type="letter">
+            <pb facs="tcp:108809:2"/>
+            <pb n="3" facs="tcp:108809:2"/>
+            <head>BOSTON</head>
+            <opener>
+               <dateline>
+                  <date>
+                     <hi>DECEMBER</hi> 28<hi rend="sup">th,</hi> 1675.</date>
+               </dateline>
+            </opener>
+            <opener>
+               <salute>SIR,</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">T</seg>Is verily Believed with us that all Generous minds in both <hi>Englands</hi> which concern themſelves to en<g ref="char:EOLhyphen"/>quire after our Affairs in theſe parts of the World, and wiſh us well, have a longing deſire the <hi>In<g ref="char:EOLhyphen"/>dian Wars</hi> might be ended, and we preſumed e're this that the powers of perſwaſion or force would have made a happy Change, by altering the minds, or reſtraining the Malice of our Heathen Foes.</p>
+            <p>But ſo it is, the Rod of Gods Anger is ſtill upon us; For the <hi>Po<g ref="char:EOLhyphen"/>canakit</hi> Sachem <hi>Metacom, alias Philip,</hi> ſtill lives! he lives to be a vex<g ref="char:EOLhyphen"/>ation to us in all places where he comes; Yea he lives, and by his ſub<g ref="char:EOLhyphen"/>tilty proves a more forcible and perilous Enemy to us then ever we could have Imagined; He hath drawn into his Confederacy all <hi>In<g ref="char:EOLhyphen"/>dians</hi> from Cape <hi>Sables</hi> Eaſtward to the <hi>Mowhauks,</hi> which is about 300 Miles or upwards: And our Fears are (which would to God they were but Fears) that ſome Traders of <hi>Europe</hi> for love of gain have from time to time ſupplyed them with Ammunition.</p>
+            <p>At the Eaſtward the <hi>Indians</hi> have ruined <hi>Falmouth</hi> black point, and <hi>Saco,</hi> and ſlain in thoſe Towns 30 Perſons; ſome they took alive
+<pb n="4" facs="tcp:108809:3"/>and ſat them upright in the Ground, uſing this <hi>Sarchaſm; You Eng<g ref="char:EOLhyphen"/>liſh ſince you came into this Countrey have grown exceedingly above Ground, let us now ſee how you will grow when Planted into the Ground.</hi> At <hi>Ketterey</hi> they have ſlain fourteen Perſons, and Burnt Sundry Houſes; At <hi>Dover</hi> they alſo have killed ſome, and Fired two or three Houſes; Our Enemies proudly exult over us and Blaſpheme the name of our Bleſſed God; Saying, <hi>Where is your O God?</hi> taunting at the Poor Wretches, which (to make themſelves Sport with) they cruelly Torture to Death: But our Affiance is in the God that made Heaven and Earth, who when he Ariſes will Scatter our Enemies.</p>
+            <p>It hath been the great care of our Council to diſtinguiſh between Friends and Enemies; for moſt of our miſchiefs have flowed from pretended Friends; who have Demeaned themſelves exceeding fairly with us till they have had the opportunity ſecretly and ſuddainly to endamage us; and then they fly to our avowed Adverſaries. Many of our Commonalty would have all <hi>Indians</hi> (<hi>quatenus</hi> ſuch) declared Enemies; But our Sobereſt Sort juſtly fear to Condemn the Innocent with the Guilty; knowing that <hi>Juſtitia eſt firmitas Regni;</hi> not would they draw on themſelves the guilt of blotting out the Intereſt of the Goſpel amonſt the <hi>Indians;</hi> remembring <hi>New-England</hi> was Origi<g ref="char:EOLhyphen"/>nally a Plantation more famous for Religion than Trade; And to this day the <hi>Maſſachuſets</hi> in the impreſs of their Publick Seal have an <hi>Indian</hi> Engraven with theſe Words, <hi>Come over and Help us;</hi> Allu<g ref="char:EOLhyphen"/>ding to <hi>Act.</hi> 16.9. Much Inteſtine Heart-Burnings and Complain<g ref="char:EOLhyphen"/>ings (not to ſay Mutinies) have been about theſe matters; to quiet which, eleven of the moſt notorious, with whom ſome <hi>Engliſh</hi> plun<g ref="char:EOLhyphen"/>der was found, were Arraigned, ſix whereof being evidently found Guilty, were ſoon after Executed; and at the Deſire of the Honeſteſt of them all, the profeſſing <hi>Indians</hi> are placed and provided for on certain Iſlands where they are out of Harms way; And by an Act of the General Court (which is our Parliament there) 'Tis Death for any of them to come oft thence without Licenſe from the Magiſtrate. Our People ſince the loſs of Captain <hi>Lathrop</hi> of <hi>Beverly</hi> with about 60 Men by Surprize, and the Burning of <hi>Spring field,</hi> are grown not leſs valourous, but more cautious: Experience is the Mother of Prudence; and little good comes of diſpiſing an Enemy.
+<pb n="5" facs="tcp:108809:3"/>Yet let not the World cenſure too much Captain <hi>Lathrop:</hi> he in the Pequot Wars had done Exploits, not in this would have been behind<g ref="char:EOLhyphen"/>hand if the Narrow Paſſage or Cauſey where his unexpected Enemies ſet on him would have given him leave to have drawn up his Men; but however, this may be ſaid, to uſe the Words of a Wiſe Man; <hi>There was never Cenſor that Judged,</hi> Senator <hi>that Ordered; General that Commanded, Council that Executed,</hi> Orator <hi>that Perſwaded, nor any other Mortal Man, but ſometimes he committed Errors.</hi> Let ſuch as are too apt to cenſure the Conduct of ſome Affairs here, Remem<g ref="char:EOLhyphen"/>ber this.</p>
+            <p>On the 19 of <hi>October Philip</hi> Aſſaulted <hi>Hatsfield,</hi> a Town on <hi>Con<g ref="char:EOLhyphen"/>necticot-River,</hi> with about 800 Men: But there were 200 of ours then in the Town, which in two Hours ſpace, with the loſs of one Man only, put the <hi>Indians</hi> to a total flight, and killed about 100 of them, 60 of whoſe dead Bodies the <hi>Indians</hi> carried with them on Horſes, &amp;c. (for they had ſeveral Horſes amongſt them); After which <hi>Philip</hi> and the <hi>Nipnet Indians</hi> fled to the <hi>Narraganſits;</hi> which cauſed the Council of the <hi>Maſſachuſets,</hi> to publiſh in print this <hi>Manifeſto.</hi>
+            </p>
+            <div type="letter">
+               <pb n="6" facs="tcp:108809:4"/>
+               <head>To our Brethren and Friends the In<g ref="char:EOLhyphen"/>habitants of the Colony of the <hi>Maſsachuſets.</hi>
+               </head>
+               <p>
+                  <hi>A<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>though you cannot be Ignorant, how ſtudious this Government hath been to preſerve Peace in this Co<g ref="char:EOLhyphen"/>lony, and have taken up and Compromiſed diverſe Quarrels that have Riſen between our Selves, our Neighbours, and the <hi>Indians;</hi> And thereby at ſeve<g ref="char:EOLhyphen"/>ral times prevented thoſe Calamities wherewith we are now Preſſed: Yet to ſatisfie you that the ſame Mind and the ſame Endeavours are continued in the preſent Government, we have thought it neceſſary to let you underſtand the Riſe and Progreſs of our pre<g ref="char:EOLhyphen"/>ſent Troubles, with our Endeavours to have preven<g ref="char:EOLhyphen"/>ted the ſame.</hi>
+               </p>
+               <p>IN <hi>June</hi> laſt, we were Certified by our Friends and Confederates of <hi>Plimouth,</hi> that <hi>Philip</hi> the Sachem of <hi>Mount-Hope</hi> was in Arms, and had Solicited all the <hi>Indians</hi> to joyn with him againſt the <hi>Engliſh;</hi> and withal, they deſired our Aſſiſtance to Sup<g ref="char:EOLhyphen"/>preſs him: which we by the Articles of Confederation could not deny, and therefore applied our ſelves to Raiſe ſome Force for their Aſſiſtance, but were ſtill deſirous to prevent a War with the <hi>Indians;</hi> and there<g ref="char:EOLhyphen"/>fore upon a former Experience of a good Effect wrought upon the ſaid <hi>Philip,</hi> We reſolved to uſe the ſame Means, <hi>viz.</hi> ſending Meſ<g ref="char:EOLhyphen"/>ſengers from hence to <hi>Philip</hi> to Treat with him, hoping of the like Iſſue, which upon the like caſe about four Years ſince, we by Good Hand obtained. But our Meſſengers arriving at <hi>Swanzy,</hi> in their way towards <hi>Philip,</hi> found divers <hi>Engliſh</hi> Murthered on the Road, and were informed by the <hi>Engliſh</hi> there, of divers Hoſtilities of the <hi>In<g ref="char:EOLhyphen"/>dians,</hi>
+                  <pb n="7" facs="tcp:108809:4"/>which rendred our Deſign and their Negotiation hopeleſs: <g ref="char:V">Ʋ</g>pon which they returned, and informed us as aboveſaid. Where<g ref="char:EOLhyphen"/>upon our Forces began their March in Aid of our Friends at <hi>Ply<g ref="char:EOLhyphen"/>mouth,</hi> and having driven <hi>Philip</hi> from his Countrey, we being in<g ref="char:EOLhyphen"/>formed that the <hi>Narraganſets</hi> harboured his Women, and aided him with Men: We ordered our Souldiers to March to <hi>Narraganſet,</hi> in or<g ref="char:EOLhyphen"/>der to keep them quiet, and prevent their Succouring or Harbouring the Enemy: Where, after ſome delay, they were drawn to conſent to our Demands, promiſing neither to Entertain nor Aſſiſt our Enemies, which they ſince confirmed in a Treaty with the Commiſſioners of the Colonies; Further engaging, that they would deliver all thoſe of <hi>Phi<g ref="char:EOLhyphen"/>lips</hi> party, that upon his Rout near <hi>Scatoneck,</hi> or ſince were fled to him; but have failed in every particular.</p>
+               <p>You may alſo take notice, That before any of our Souldiers marched to <hi>Mount-Hope,</hi> we were very careful to underſtand the ſtate of the <hi>Nipnet-Indians,</hi> to prevent <hi>Philips</hi> deſign, and ſecure thoſe <hi>Indians,</hi> and therefore diſpatched two Meſſengers well known to them, to certifie them of <hi>Philips</hi> motion, and of our deſire to keep Amity and Friendſhip with them, according to the Covenants made with them long ſince, no ways Violated on our part. And by the ſaid Meſſengers, received fair returns from the moſt of them, being in ten or twelve Plantations. Some of them pretending fear of us: For their further Satisfaction (when our Forces were ſent out againſt <hi>Philip</hi>) we to ſatisfie and ſecure them, ſent them by <hi>Ephraim Curtice,</hi> a Declaration under the Pub<g ref="char:EOLhyphen"/>lick Seal, that we had no Deſign or Intent to diſturb them, or any other <hi>Indians</hi> that would remain in their Plantations peaceably: which Meſſage and Meſſenger was evilly treated by many of them then Aſſem<g ref="char:EOLhyphen"/>bled, and the Meſſenger much endangered by the younger Men, and not with any Satisfaction by their Sachems; as the Event ſhewed, though at that preſent more moderately received.</p>
+               <p>Soon after this Diſpatch, and before <hi>Philips</hi> flying from <hi>Pocaſſet,</hi> and March up towards the <hi>Nipnet</hi> Countrey, ſome of the ſaid <hi>Nipnet-Indians</hi> Aſſaulted and Slew divers of our People at <hi>Mendam;</hi> where<g ref="char:EOLhyphen"/>upon Captain <hi>Hutchinſon</hi> with a ſmall Guard, was ſent up to the ſaid <hi>Nipnet-Indians,</hi> (if poſſible to keep them quiet) who arriving at <hi>Quabaog,</hi> whereabouts was a Rendezvous of the <hi>Indians,</hi> and having ſent to them, they promiſed to meet him in a certain place, whither he at the time repairing, found not the <hi>Indians;</hi> and being encouraged by the <hi>Engliſh</hi> of <hi>Quabaog,</hi> that the <hi>Indians</hi> were peaceable, <hi>&amp;c.</hi> he
+<pb n="8" facs="tcp:108809:5"/>advanced forward towards the place of the <hi>Indians</hi> Rendezvous to Treat them: But in the way, was by Ambuſcado, treacherouſly way<g ref="char:EOLhyphen"/>laid, by which himſelf, with ſeveral others, were Wounded and Slain, the <hi>Engliſh</hi> of <hi>Quabaog</hi> immediately Aſſaulted, and the Town, ex<g ref="char:EOLhyphen"/>cept one Houſe, totally deſtroyed; at which time, as we underſtand, <hi>Philip</hi> alſo with his broken Party came up to the ſaid <hi>Indians,</hi> and upon the firſt, or immediately before the arrival of the Forces we ſent up for the Relief of thoſe of <hi>Quabaog, Philip</hi> and his whole Crew retreated (as we then feared, and afterwards were informed) to<g ref="char:EOLhyphen"/>wards <hi>Conecticot</hi> River, from whence Recruiting himſelf with Am<g ref="char:EOLhyphen"/>munition from <hi>Albany,</hi> and with Men, partly from the treacherous <hi>Indians</hi> about <hi>Hadly</hi> and <hi>Spring field;</hi> he hath proſecuted his firſt deſign to Ruine and Deſtroy the <hi>Engliſh.</hi> And notwithſtanding all the Oppoſition of our Forces, hath done much Miſchief and Spoil; and ſince the Repulſe he received at <hi>Hatsfield,</hi> withdrew into the <hi>Nip<g ref="char:EOLhyphen"/>net</hi> Country, and ſince that (as we underſtand) toward the <hi>Narra<g ref="char:EOLhyphen"/>ganſets,</hi> who we do conclude, have favoured, abbetted, and aſſiſted him therein; and by entertaining and harbouring our Enemies, have dealt falſly and perfidiouſly with us: whereby we find our ſelves neceſ<g ref="char:EOLhyphen"/>ſarily Ingaged, with the Conſent, Advice, and Aſſiſtance of the reſt of the Colonies, in a War with them, as well as with <hi>Philip,</hi> unleſs they prevent the ſame by a timely Complyance, and Performance, and Security for the future: for the managing and carrying on whereof, we hope for, and expect (as we have hitherto had) the Aſſiſtance of all his Majeſties Subjects of this Colony in their reſpective Capacities, in the juſt Defence of the Glory of God, the Honour, Defence and Safety of our King, Countrey, and our Selves, from the Subtilty, Rage and Treacherous Attempts of our Barbarous Enemies.</p>
+               <closer>
+                  <dateline>
+                     <hi>Dated in</hi> Boſton, <date>
+                        <hi>the</hi> 7th <hi>of</hi> December, <hi>Anno Chriſti, 1675. Annoque Dommini Caroli Secundi Regis</hi> Angl. Scot. Fran. &amp; Hiber. <hi>Defenſoris Fidei,</hi> &amp;c. 27th.</date>
+                  </dateline>
+                  <signed>
+                     <hi>By the Council,</hi> EDWARD RAWSON, <hi>Secret.</hi>
+                  </signed>
+               </closer>
+            </div>
+            <div type="account">
+               <pb n="9" facs="tcp:108809:5"/>
+               <p>THe Commiſſioners of the three Colonies having levied about a 1000 Men, <hi>viz.</hi> 527 on the <hi>Maſſachuſets,</hi> 300 from <hi>Co<g ref="char:EOLhyphen"/>necticot,</hi> and 177 from <hi>Plimouth,</hi> ſent them all under the Command of Governour <hi>Winſlow</hi> of <hi>Plymouth,</hi> with Major <hi>Appleton</hi> of <hi>Ipſwich</hi> in the <hi>Maſſachuſits,</hi> and Major <hi>Treat</hi> of <hi>Conecticot,</hi> with ten Foot Captains, and two Captains of Horſe. Theſe on the 16th of <hi>December</hi> made their Rendezvous at the Houſe (now made a Garriſon) of one Mr. <hi>Smith.</hi>
+               </p>
+               <p>Captain <hi>Prentice</hi> with a Troop of Horſe Scouting to diſcover the poſture of the Enemy, diſcovered about 200 <hi>Indians,</hi> which were ſuppoſed to be the <hi>Squaw Sachems</hi> 
+                  <gap reason="illegible" resp="#UOM" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> theſe he immediately engaged with, and ſlew ten of) them and took about 40 Priſoners, (in which Combate only his Leiutenant was wounded) which he brought to the <hi>Engliſh</hi> Camp, and then found where the <hi>Indians</hi> had buried much Corn (as their cuſtom is) in dry pits in Baskets.</p>
+               <p>By theſe and ſome Fugitive <hi>Indians</hi> our Forces had certain Inte<g ref="char:EOLhyphen"/>ligence where the Enemy lay; which was about 16 miles from our quarters. On the 10th, although it was Sunday, four Men thought they could not ſerve God Better then to require Juſtice of the <hi>Indi<g ref="char:EOLhyphen"/>ans</hi> for the Innocent Blood which had been ſo oft by thoſe Truceent Salvages ſhed; and we were chearfully ready (as ſo many <hi>Samp<g ref="char:EOLhyphen"/>ſous</hi>) to forgo our own lives to be revenged of theſe <hi>Philiſtines,</hi> that had made Sport with our miſeries; we marched through the Snow and came to a thick <hi>Swamp (i. e.</hi> a Quagmiry-Wood) wherein were encamped 3500 <hi>Indians.</hi> We firſt demanded to have <hi>Philip</hi> and his Adherents to be delivered Priſoners to us, according to Articles: And had no other Anſwer but ſhot; then we fired about 500 <hi>Wigwams,</hi> (i. e. <hi>Indian Houſes</hi>) and killed all that we met with of them, as well <hi>Squaws</hi> and <hi>Papooſes, (i. e.</hi> Women and Children) as <hi>Sanups (i. e.</hi> Men.) In the midſt of the Wood was a plain piece of Ground on which the Indians had built a Fort; the Stone-Wall whereof encloſed about four or five Acres, in which Rampart was
+<pb n="10" facs="tcp:108809:6"/>about 1000 <hi>Indians:</hi> this Hold we aſſaulted, they within on the firſt onſet ſtoutly repulſed us; But our God, bleſſed for ever, ſo proſpe<g ref="char:EOLhyphen"/>red and encouraged the <hi>Engliſh,</hi> that every one put forth his utmoſt Strength, and on the renew <gap reason="illegible" resp="#UOM" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>g the Aſſault we became Maſters of the place, though with the loſs of many of our Brave Chieftains, who ſold their lives at a dear rate.</p>
+               <p>We were no ſooner entred the Fort, but our Enemies began to fly; and ours had now a C<gap reason="illegible" resp="#UOM" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>ge rather then a Fight, for every one had their fill of Blood: It did greatly rejoice our Men to ſee their Ene<g ref="char:EOLhyphen"/>mies, who had formerly ſculked behind Shrubs and Trees, now to be engaged in a fair Field, where they had no defence but in their Arms, or rather their Heels; But our chiefeſt Joy was to ſee they were mortal, as hoping their Death will revive our Tranquillity, and once more reſtore us to a ſetled Peace which (through the Bleſſing of God) we have long enjoy'd.</p>
+               <p>This Fight and Execution continued from three a Clock in the Afternoon till night, and then we left the flying Enemy to take care of our Wounded, and to cary off our Dead.</p>
+               <p>We have ſlain of the Enemy about 500 Fighting Men, beſides ſome that were burnt in their <hi>Wigwams,</hi> and Women and Children the number of which we took no account of; alſo one of their Sachems is ſlain: How many we have wounded of the Enemy we know not; But of our own loſſes this Account was ſent to the Council at <hi>Boſton,</hi> as followeth.</p>
+               <pb n="11" facs="tcp:108809:6"/>
+               <p>
+                  <table>
+                     <row>
+                        <cell role="label" cols="3">A Liſt of the Number of the <hi>Engliſh</hi> ſlain and wounded in the Battel with the <hi>Indians</hi> on the 19th, of <hi>November,</hi> 1675.</cell>
+                     </row>
+                     <row>
+                        <cell role="label" cols="3">Of the <hi>Maſſachuſets<g ref="char:punc">▪</g>
+                           </hi>
+                        </cell>
+                     </row>
+                     <row>
+                        <cell role="label">In the Company of</cell>
+                        <cell role="label">Slain.</cell>
+                        <cell role="label">Wounded</cell>
+                     </row>
+                     <row>
+                        <cell>Major <hi>Appleton</hi>
+                        </cell>
+                        <cell>2</cell>
+                        <cell>22</cell>
+                     </row>
+                     <row>
+                        <cell>Capt. <hi>Moſeley</hi>'s</cell>
+                        <cell>9</cell>
+                        <cell>10</cell>
+                     </row>
+                     <row>
+                        <cell>Capt. <hi>Oliver</hi>'s</cell>
+                        <cell>5</cell>
+                        <cell>10</cell>
+                     </row>
+                     <row>
+                        <cell>Capt. <hi>Johnſon</hi>'s</cell>
+                        <cell>3</cell>
+                        <cell>11</cell>
+                     </row>
+                     <row>
+                        <cell>Capt. <hi>Gardner</hi>'s</cell>
+                        <cell>7</cell>
+                        <cell>11</cell>
+                     </row>
+                     <row>
+                        <cell>Capt. <hi>Davenport</hi>'s</cell>
+                        <cell>4</cell>
+                        <cell>15</cell>
+                     </row>
+                     <row>
+                        <cell role="total"> </cell>
+                        <cell role="total">30</cell>
+                        <cell role="total">79</cell>
+                     </row>
+                     <row>
+                        <cell role="label" cols="3">Wounded, whereof ſome are ſince dead,</cell>
+                     </row>
+                     <row>
+                        <cell role="label" cols="3">Of <hi>Conecticot.</hi>
+                        </cell>
+                     </row>
+                     <row>
+                        <cell>Major <hi>Treat's</hi> Company</cell>
+                        <cell cols="2">20</cell>
+                     </row>
+                     <row>
+                        <cell>Capt. <hi>Sealy</hi>'s</cell>
+                        <cell cols="2">20</cell>
+                     </row>
+                     <row>
+                        <cell>Capt. <hi>Marſhal</hi>'s</cell>
+                        <cell cols="2">14</cell>
+                     </row>
+                     <row>
+                        <cell>Capt. <hi>Waite's</hi>
+                        </cell>
+                        <cell cols="2">17</cell>
+                     </row>
+                     <row>
+                        <cell role="total"> </cell>
+                        <cell role="total" cols="2">71</cell>
+                     </row>
+                     <row>
+                        <cell role="label" cols="3">Of <hi>Plymonth</hi>
+                        </cell>
+                     </row>
+                     <row>
+                        <cell>Capt. <hi>Bradford</hi>
+                        </cell>
+                        <cell cols="2"> </cell>
+                     </row>
+                     <row>
+                        <cell>Capt. <hi>Corum</hi>
+                        </cell>
+                        <cell cols="2">20</cell>
+                     </row>
+                     <row>
+                        <cell>Troopers</cell>
+                        <cell cols="2">02</cell>
+                     </row>
+                     <row>
+                        <cell>Loſt in the Woods</cell>
+                        <cell cols="2">05</cell>
+                     </row>
+                     <row>
+                        <cell role="total"> </cell>
+                        <cell role="total" cols="2">27</cell>
+                     </row>
+                     <row>
+                        <cell role="label" cols="3">Captains Slain.</cell>
+                     </row>
+                     <row>
+                        <cell cols="3">Capt. <hi>Davenport</hi>
+                        </cell>
+                     </row>
+                     <row>
+                        <cell cols="3">Capt. <hi>Johnſon</hi>
+                        </cell>
+                     </row>
+                     <row>
+                        <cell cols="3">Capt. <hi>Gardner.</hi>
+                        </cell>
+                     </row>
+                     <row>
+                        <cell cols="3">Capt. <hi>Marſhal.</hi>
+                        </cell>
+                     </row>
+                     <row>
+                        <cell cols="3">Capt. <hi>Gallop</hi> who Com<g ref="char:EOLhyphen"/>manded <hi>
+                              <g ref="char:V">Ʋ</g>ncaſs's Indians.</hi>
+                        </cell>
+                     </row>
+                     <row>
+                        <cell role="label" cols="3">Wounded.</cell>
+                     </row>
+                     <row>
+                        <cell cols="3">Captain <hi>Bradford</hi> ſhot in the Eye.</cell>
+                     </row>
+                     <row>
+                        <cell cols="3">Capt. <hi>Sealy</hi> mortally as is feared.</cell>
+                     </row>
+                     <row>
+                        <cell cols="3">Captain <hi>Maſon.</hi>
+                        </cell>
+                     </row>
+                     <row>
+                        <cell cols="3">Capt. <hi>Waite.</hi>
+                        </cell>
+                     </row>
+                     <row>
+                        <cell role="label" cols="3">Lieutenants Wounded.</cell>
+                     </row>
+                     <row>
+                        <cell cols="3">Lieut. <hi>Savage.</hi>
+                        </cell>
+                     </row>
+                     <row>
+                        <cell cols="3">Lieu. <hi>Ting.</hi>
+                        </cell>
+                     </row>
+                     <row>
+                        <cell cols="3">Lieu. <hi>Swan.</hi>
+                        </cell>
+                     </row>
+                     <row>
+                        <cell cols="3">Lieu. <hi>
+                              <g ref="char:V">Ʋ</g>pham.</hi>
+                        </cell>
+                     </row>
+                     <row>
+                        <cell role="total" cols="3">Wounded &amp; Slain in all 207.</cell>
+                     </row>
+                  </table>
+               </p>
+               <p>
+                  <hi>December</hi> the 20th we removed our Wounded Men to <hi>Road-Iſland,</hi> and ſome of our Men are marched with Carriages to fetch to our Camp the <hi>Indians</hi> Corn, which Captain <hi>Prentice</hi> diſcovered, and
+<pb n="12" facs="tcp:108809:7"/>they find great quantities, and that ſome of the Barns, or Cel<g ref="char:EOLhyphen"/>lers rather, have been lately opened by ſome <hi>Indians.</hi>
+               </p>
+               <p>
+                  <hi>December</hi> 27, the Council at <hi>Boſton</hi> have ordered forthwith 1000 Men more to march to the <hi>Narraganſes</hi> Country to recruit Governour <hi>Winſlaw;</hi> And Major <hi>Waldren</hi> commands certain Companies at the Eaſtward to ſuppreſs the <hi>Indians</hi> there.</p>
+               <p>
+                  <hi>Ninegret</hi> the old Sachem of the <hi>Narraganſets</hi> is ſeparated from his other <hi>Indians</hi> with a ſmall Party, pretending he conſents not with the <hi>Engliſhes</hi> Enemies; and that thoſe <hi>Narraganſets</hi> which now join with <hi>Philip,</hi> are either under other Sachems, or Rebels to him.</p>
+               <p>It may be of ſome remark to let the World know that in the year 1621 on the 21 of <hi>March Maſſaſoiet,</hi> (alias <hi>Wooſamequen</hi>) acknow<g ref="char:EOLhyphen"/>ledged himſelf voluntarily in open Court at <hi>Plymouth</hi> to be a Subject to King <hi>James;</hi> he was Grandfather to <hi>Philip. September</hi> the 25th 1639 he and his Son <hi>Mooanam</hi> did the ſame again to King <hi>Charles</hi> the Firſt and his Heirs and Succeſſors. And <hi>Auguſt</hi> ſixth 1662, this very <hi>Philip,</hi> our moſt turbulent and implacable Enemy, again renewed the acknowledgment of himſelf a Subject to our King that now is, and his Heirs and Succeſſors Kings of <hi>England;</hi> and all three covenanted at the times aforeſaid, that they would not Sell or Give any of their Lands to any <hi>Engliſh,</hi> but with the conſent of the <hi>Engliſh</hi> Government firſt had and obtained: The Original Inſtruments Signed with their own Hands, and the chief of their Men, ſtill remain on Record in the Regiſter of the Court of <hi>New-Plymouth.</hi>
+               </p>
+               <p>Time, the conſumer of all things, we hope will once more Subject this Adverſary. <hi>Amen.</hi>
+               </p>
+            </div>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
